@@ -1,2 +1,2 @@
 # ShodanResearch
-Shit From Shodan
+This contains everything I've found on Shodan.io
